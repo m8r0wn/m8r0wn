@@ -1,9 +1,9 @@
 ```bash
-~> whoami
+~# whoami
 m8r0wn
 
 ~# prinvenv
-Job=Sr.Pentester
+Job=Sr. Penetration Tester
 Language=Python
 Site=https://m8r0wn.com
 

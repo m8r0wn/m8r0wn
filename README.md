@@ -2,7 +2,7 @@
 ~# whoami
 m8r0wn
 
-~# prinvenv
+~# printenv
 Job=Sr. Penetration Tester
 Language=Python
 Site=https://m8r0wn.com

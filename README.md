@@ -1,7 +1,7 @@
 ## About
 ```bash
 ~# id
-name=(m8r0wn) title=(Sr. Penetration Test) groups=(oscp),(Bug Bounty Hunter),(Infosec)
+name=(m8r0wn) title=(Sr. Penetration Tester) groups=(oscp),(Bug Bounty Hunter),(Infosec)
 
 ```
 

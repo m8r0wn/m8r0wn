@@ -1,11 +1,4 @@
-## About
-```bash
-~# id
-name=(m8r0wn) title=(Sr. Penetration Tester) groups=(oscp),(Bug Bounty Hunter),(Infosec)
-
-```
-
-## Socials
+## About Me
 💻 Website = [m8r0wn.com](https://m8r0wn.com)<br>
 🐦 Twitter = [@m8r0wn](https://twitter.com/m8r0wn) <br>
 📝 Medium = [m8r0wn](https://m8r0wn.medium.com)

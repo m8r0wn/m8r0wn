@@ -1,4 +1,6 @@
 ## About Me
+I am a penetration tester, open source developer, and occasional bug bounty hunter creating Offensive Security tooling and providing educational content.
+
 💻 Website = [m8r0wn.com](https://m8r0wn.com)<br>
 🐦 Twitter = [@m8r0wn](https://twitter.com/m8r0wn) <br>
 📝 Medium = [m8r0wn](https://m8r0wn.medium.com)

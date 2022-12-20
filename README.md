@@ -1,9 +1,8 @@
-### Hi, I'm m8sec :nerd_face:
+### Hi, I'm m8sec
 
-- I write code when im not being paid to write code :face_exhaling:
-- Sometimes I write blog posts on :books: [Medium](https://medium.com/@m8sec) & :globe_with_meridians: [m8sec.dev](https://m8sec.dev)
-- More about my background at :astronaut: [m8sec.dev/about](https://m8sec.dev/about)
-- <img src="/img/twitter.svg" /> Follow me on Twitter - [@m8sec](https://twitter.com/m8sec)
+- I write code when im not being paid to write code :nerd_face:
+- Sometimes I write blog posts on :books: [Medium](https://medium.com/@m8sec)
+- More about my background at :astronaut: [m8sec.dev](https://m8sec.dev/)
 
 <p align="center">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m8sec&show_icons=true&theme=chartreuse-dark&hide_title=true&hide_rank=true"/>
